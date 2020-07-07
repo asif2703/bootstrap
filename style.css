@@ -47,3 +47,13 @@
     background-color: white
     border-top:none;
 }
+#contact{
+    height:300px;
+}
+.container h6{
+    color: grey;
+
+}
+footer{
+    text-align: center;
+}
